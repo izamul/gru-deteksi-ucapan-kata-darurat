@@ -6,7 +6,7 @@ streamlit==1.28.0
 librosa==0.10.1
 sounddevice==0.4.6
 soundfile==0.12.1
-scipy==1.12.1
+scipy==1.12.0
 pydub==0.25.1
 scikit-learn==1.5.2
 matplotlib==3.10.1
