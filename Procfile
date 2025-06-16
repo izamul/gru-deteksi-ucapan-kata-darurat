@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run voice_classification_app.py 
