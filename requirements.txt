@@ -1,5 +1,5 @@
 wheel>=0.41.3
-setuptools
+python3-setuptools
 numpy==1.23.5
 tensorflow==2.13.0
 streamlit==1.28.0
