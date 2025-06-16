@@ -1,7 +1,7 @@
 wheel>=0.41.3
 numpy==1.26.4
 setuptools
-tensorflow==2.13.0
+tensorflow==2.18.0
 streamlit==1.28.0
 librosa==0.10.1
 sounddevice==0.4.6
